@@ -6,8 +6,8 @@ body {
 }
 .logo img {
     border-radius: 50%;
-    width: 150px;
-    height: 150px;
+    width: 300px;
+    height: 300px;
     object-fit: cover;
     margin: 15px;
 }
